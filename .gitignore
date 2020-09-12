@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Dependencies
+include/
+lib/
+
+# Visual Studio directories
+.vs/
+x64/
+Debug/
+
+# Other Visual Studio stuff
+cse3d.vcxproj.filters
+cse3d.vcxproj.user
