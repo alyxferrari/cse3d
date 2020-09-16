@@ -1,5 +1,5 @@
 # cse3d
-by Alyx Ferrari
+by Alyx Ferrari<br/>
 A WIP complete rewrite of jse3d (by Alyx Ferrari and Sam Krug) using C++ and OpenGL
 
 ## Current state
